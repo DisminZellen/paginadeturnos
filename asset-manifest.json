@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DisminZellen/paginadeturnos.git/static/css/main.60b31bb1.css",
+    "main.js": "/DisminZellen/paginadeturnos.git/static/js/main.fb268e75.js",
+    "index.html": "/DisminZellen/paginadeturnos.git/index.html",
+    "main.60b31bb1.css.map": "/DisminZellen/paginadeturnos.git/static/css/main.60b31bb1.css.map",
+    "main.fb268e75.js.map": "/DisminZellen/paginadeturnos.git/static/js/main.fb268e75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60b31bb1.css",
+    "static/js/main.fb268e75.js"
+  ]
+}
